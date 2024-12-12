@@ -1,4 +1,4 @@
-### Build Instructions
+### Introduction
 
 This repository consists of coding examples from Stephan Roth's Clean C++20 book.
 Implementation of the particular exercise does not need to be exactly the same as in the book.
@@ -8,6 +8,8 @@ Resources:
 * https://www.clean-cpp.com/
 
 **Disclaimer**: I do not have any relation with the original author of the book or the book it self.
+
+### Build Instructions
 
 Prerequisite is to have g++ with the c++20 standard installed.
 
